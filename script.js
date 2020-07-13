@@ -1,5 +1,5 @@
 
     $(function(){
-      $("#includedContent").load("b.html"); 
+      $("#includedContent").load("https://raw.githubusercontent.com/erickouassi/footer/master/b.html"); 
     });
     
